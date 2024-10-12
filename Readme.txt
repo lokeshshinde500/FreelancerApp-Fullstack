@@ -33,7 +33,11 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/library-system.git
+git clone https://github.com/lokeshshinde500/FreelancerApp-Fullstack
+
+frontend deployement link : https://starlit-genie-5e247d.netlify.app/
+backend deployement link : https://freelancerapp-yfd1.onrender.com/
+
 cd library-system
 Install the dependencies:
 
